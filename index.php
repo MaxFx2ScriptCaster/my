@@ -1,2 +1,3 @@
 <?php
-echo 4444;
+echo 'hello world';
+echo 'I am God!';
